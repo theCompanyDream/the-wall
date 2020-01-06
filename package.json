@@ -1,0 +1,19 @@
+{
+  "name": "the-wall",
+  "version": "0.0.1",
+  "description": "site dedicated to the people who've lost their lives to sensless violence. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theCompanyDream/the-wall.git"
+  },
+  "author": "Timothy Brantley II",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theCompanyDream/the-wall/issues"
+  },
+  "homepage": "https://github.com/theCompanyDream/the-wall#readme"
+}
